@@ -1,0 +1,11 @@
+{
+  "dependencies": {
+    "node-telegram-bot-api": "^0.66.0",
+    "nodejs-file-downloader": "^4.13.0",
+    "pg": "^8.13.1"
+  },
+  "devDependencies": {
+    "@types/node-telegram-bot-api": "^0.64.7",
+    "@types/pg": "^8.11.10"
+  }
+}

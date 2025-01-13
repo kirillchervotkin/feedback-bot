@@ -1,0 +1,6 @@
+
+/node_modules
+/out
+/downloads
+.vscode/launch.json
+config.ts
